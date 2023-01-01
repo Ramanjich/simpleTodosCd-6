@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.mainContainer {
+  background-color: #ffc2a0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.listContainer {
+  background-color: #ffffff;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+}
+.heading {
+  color: #ff8542;
+  font-family: Roboto;
+}
